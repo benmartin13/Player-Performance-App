@@ -1,4 +1,4 @@
-#Data Cleaning and Prep
+#Data Cleaning and Prep, Model Creation
 load(file = "statcast_data.Rdata")
 sc <- statcast_bind
 head(sc)
